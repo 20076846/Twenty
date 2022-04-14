@@ -1,4 +1,11 @@
-let userNum = document.getElementById("inputBox");
+function getCard() {
+    var r = Math.floor(Math.random() * 10) +1
+    document.getElementById 
+}
+
+
+//Aply this crap later//
+/*let userNum = document.getElementById("inputBox");
 userNum.addEventListener("keydown", function (e) {
   if (e.keyCode == 13) {
     run(e);
@@ -86,4 +93,5 @@ function compareNum() {
 
 function resetInput() {
   document.getElementById("inputBox").value = "";
-}
+}*/
+
