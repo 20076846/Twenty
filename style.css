@@ -1,0 +1,117 @@
+.cover {
+    background-image: url("images/banana-4415864_1920.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+ }
+  
+ .navbar {
+    background-color: transparent;
+ }
+  
+ .navbar-brand {
+    font-size: 20px;
+ }
+  
+ .navbar a {
+    color: #fff;
+ }
+  
+ .nav-item {
+    margin-right: 30px;
+    font-size: 20px;
+ }
+  
+ .flex-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ .j {
+    background-color: transparent;
+    width: 40%;
+    color: #fff;
+    position: relative;
+    top: 100px;
+    text-align: center;
+ }
+  
+ .j-btn {
+    text-align: center;
+ }
+  
+ .btn-lg {
+    background-color: rgb(255, 209, 5);
+    border-color: transparent;
+ }
+  
+ .card-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
+  
+ .card {
+    border-color: transparent;
+ }
+  
+ .card-img-top {
+    height: 300px;
+    object-fit: cover;
+    object-position: top;;
+ }
+  
+ .card-sources {
+    margin-bottom: 100px;
+    width: 100%;
+ }
+  
+ .one, .two, .three, .four {
+    padding: 20px;
+    background-color: rgb(255, 187, 0);
+    text-align: center;;
+ }
+  
+ .col-md-3 a {
+    color: #fff;
+ }
+  
+ .jumbo2 {
+    background-image: url("images/plant-3133501_1920.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+ }
+  
+ .j2 {
+    background-color: rgba(255, 145, 0, 0.295);;
+    text-align: center; 
+    color: #fff;
+    width: 40%;
+ }
+  
+ .footer {
+    background-color:  rgb(255, 187, 0);
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+  
+ #footer-image {
+    width: 20px;
+    height: 20px;
+ }
+  
+  
+  
+  
+  
+  
+ 
+ 
