@@ -1,6 +1,14 @@
+function run() {
+  getCard()
+}
+
 function getCard() {
     var r = Math.floor(Math.random() * 10) +1
-    document.getElementById 
+    var suitArray = ["C", "D", "H", "S"]
+    var randomSuit = Math.floor(Math.random() * 4)
+    let a = document.getElementById("card")
+    a.insertAdjacentHTML("beforeend", "<img src=images/" + a + suitArray[randomSuit] + ".jpg")
+    return a
 }
 
 
