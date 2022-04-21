@@ -8,7 +8,6 @@ function getCard() {
     var randomSuit = Math.floor(Math.random() * 4)
     console.log(r + suitArray[randomSuit])
     document.getElementById("card").insertAdjacentHTML("beforeend", "<img src=images/" + r + suitArray[randomSuit] + ".jpg>")
-    x.style.backgroundImage = "blue";
     
 }
 
