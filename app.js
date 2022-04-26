@@ -11,6 +11,9 @@ function getCard() {
     
 }
 
+function refreshPage(){
+  window.location.reload();
+} 
 
 //Aply this crap later//
 /*let userNum = document.getElementById("inputBox");
